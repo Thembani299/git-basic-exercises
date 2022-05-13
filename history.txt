@@ -1,0 +1,147 @@
+    1  1s
+    2  1s
+    3  1s
+    4  ls
+    5  ls/data
+    6   ls /etc/perl
+    7  q
+    8  quit
+    9  mkdir git-basic-exercises
+   10  ls
+   11  mkdir git-basic-exercises
+   12  cd git-basic-exercises
+   13  ls -a
+   14  git init
+   15  ls -a
+   16  git status
+   17  touch README.md
+   18  ls -a
+   19  git status
+   20  git log
+   21  git add
+   22  git add test
+   23  git add README.md
+   24  git status
+   25  git rm --cached <file>...
+   26  git status
+   27  git commit -m "initial commit"
+   28  git add README.md
+   29  git commit -m "initial commit"
+   30  git log
+   31  q
+   32  ls
+   33  cd git=basic-exercises
+   34  cd git-basic-exercises
+   35  ls -a
+   36  git status
+   37  git rm --cached <README.md>...
+   38  git add README,md
+   39  touch README.md
+   40  ls -a
+   41  git status
+   42  git add README.md
+   43  git status
+   44  git commit -m "initial commit"
+   45  git config --global user.name "thembani"
+   46  git status
+   47  mkdir git-basic-exercises
+   48  cd git-basic-exercises
+   49  ls
+   50  ls -a
+   51  git init
+   52  ls -a
+   53  git status
+   54  touch README.md
+   55  ls -a
+   56  git status
+   57  git log
+   58  git add README.md
+   59  git status
+   60  git add <README.md>
+   61  git add README.md
+   62  git commit -m "initial commit"
+   63  git log
+   64  git log
+   65  git commit -m "inital commit"
+   66  git config --global user.email "thembaningobeni299@gmail.com"
+   67  git log
+   68  git commit -m "initial commit"
+   69  q
+   70  q
+   71  git log
+   72  nano README.md
+   73  cat README.md
+   74  git status
+   75  git add README.md
+   76  git commit -a "second commit"
+   77  git commit -m "second commit"
+   78  git log
+   79  nano README.md
+   80  git add README.md
+   81  git commit -m "third commit"
+   82  git log
+   83  git checkout
+   84  git checkout commit c7471ab6e53fd61ccd8d859bfa159fb80cc8152f
+   85  git checkoutc7471ab6e53fd61ccd8d859bfa159fb80cc8152f
+   86  git checkout c7471ab6e53fd61ccd8d859bfa159fb80cc8152f
+   87  cat README.md
+   88  git checkout main
+   89  git checkout main
+   90  cat README.md
+   91  git checkout a57585d3cf93e64c04e62e58dfe8151d191503cf
+   92  cat README.md
+   93  git checkout eef23975e5901dfb0390756320e168f2f2d37d5c
+   94  cat README.md
+   95  git branch
+   96  git branch milkshake-flavours
+   97  git branch
+   98  git checkout milkshake-flavours
+   99  git branch
+  100  nano milkshake-flavours.md
+  101  cat milkshake-flavours
+  102  cat milkshake-flavours.md
+  103  git log
+  104  git add milkshake-flavours.md
+  105  git commit -m "added initial flavours"
+  106  git log
+  107  git checkout eef23975e5901dfb0390756320e168f2f2d37d5c 
+  108  git branch
+  109  git branch history
+  110  git log
+  111  git branch
+  112  history > history.txt
+  113  git add history.md
+  114  git add history.txt
+  115  git commit -m "added history"
+  116  git log
+  117  git checkout milkshake-flavours
+  118  git log
+  119  nano README.md
+  120  git add README.md
+  121  cat README.md
+  122  git commit -m "random readme changes"
+  123  git log
+  124  git checkout history
+  125  git branch
+  126  rm README.md
+  127  echo "booya" > README.md
+  128  git add history.txt
+  129  git add history.md
+  130  git branch
+  131  git add README.md
+  132  git commit -m "rewrote readme"
+  133  git log
+  134  cat README.md
+  135  git checkout master
+  136  ls
+  137  git log
+  138  git checkout git checkout milkshake-flavours
+  139  git checkout milkshake-flavours
+  140  ls
+  141  git log
+  142  git checkout history
+  143  ls
+  144  ls
+  145  git log
+  146  git branch
+  147  history > history.txt
